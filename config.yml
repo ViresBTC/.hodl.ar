@@ -4,11 +4,11 @@
 version: 0.3.5 # NO TOCAR
 
 # HODL username
-# username: "USUARIO" # < TU_USUARIO@hodl.ar
+# username: "Cyberpunk" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
 # nostr: # Sin el # adelante
-#   npub: "TU_PUB" # Entre comillas dobles
+#   npub: "npub1094xmx7nwvn6f669qelyqarlz00nfat4l9lftv5tk8t46wa4x03s7thwvn" # Entre comillas dobles
 
 # Configuración Global
 html:
@@ -22,7 +22,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: Cyberpunk # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
