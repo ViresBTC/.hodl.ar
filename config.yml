@@ -4,16 +4,16 @@
 version: 0.3.5 # NO TOCAR
 
 # HODL username
-  username: "cyberpunk" # < TU_USUARIO@hodl.ar
+username: "cyberpunk" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
-  nostr: # Sin el # adelante
-    npub: "npub1094xmx7nwvn6f669qelyqarlz00nfat4l9lftv5tk8t46wa4x03s7thwvn" # Entre comillas dobles
+nostr: # Sin el # adelante
+  npub: "npub1094xmx7nwvn6f669qelyqarlz00nfat4l9lftv5tk8t46wa4x03s7thwvn" # Entre comillas dobles
 
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title: Links | Cyberpunk # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
